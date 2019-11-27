@@ -4,10 +4,10 @@
     <title>Ismael y Citlaly 2020</title>
     <description>Your description
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Nov 2019 19:03:53 +0200</pubDate>
-    <lastBuildDate>Wed, 27 Nov 2019 19:03:53 +0200</lastBuildDate>
+    <link>https://ismacasti.github.io/ismaelcitlaly//</link>
+    <atom:link href="https://ismacasti.github.io/ismaelcitlaly//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Nov 2019 19:26:25 +0200</pubDate>
+    <lastBuildDate>Wed, 27 Nov 2019 19:26:25 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
   </channel>

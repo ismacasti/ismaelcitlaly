@@ -1,4 +1,4 @@
-Sitemap: https://ismacasti.github.io/sitemap.xml
+Sitemap: https://ismaelcitlaly.fi/sitemap.xml
 
 User-agent: *
 Disallow: /css

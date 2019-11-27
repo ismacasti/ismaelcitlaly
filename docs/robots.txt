@@ -1,4 +1,4 @@
-Sitemap: ismaelcitlaly.github.io/sitemap.xml
+Sitemap: ismaelcitlaly.github.io/ismaelcitlaly.github.io//sitemap.xml
 
 User-agent: *
 Disallow: /css

@@ -1,29 +1,29 @@
 - inverted: 
-  img: icon-about.jpeg
-  name: Que es esto
-  info: Información en que significa esto
-  link: /about
+  img: foto1.jpeg
+  name: Nos casamos!
+  info: We are getting married!
+  link: #
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
-  name: Agenda
-  info: Comprueba la agenta
-  link: /agenda
+  name: Agenda de la boda
+  info: Agenda of the wedding
+  link: #
 
 - inverted:
   img: icon-venue.jpeg
-  name: Lugar
-  info: Información del lugar del evento
-  link: /venue
+  name: Información del lugar
+  info: Information of the venue location
+  link: #
 
 - inverted: timeline-inverted
   img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+  name: Preguntas y respuestas
+  info: FAQs
+  link: #
 
 - inverted:
   img: booklet-icon.png
-  name: Confirmar asistencia
-  info: Aquí se puede acceder a la información de reserva
-  link: /booklet
+  name: Reservar hotel
+  info: Hotel reservation
+  link: https://reservas.bodayplaya.com/reservas/citlalyeismael

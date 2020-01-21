@@ -22,7 +22,9 @@
                                     <div class="timeline-heading">
                                         <p class="text-muted">{{ about_data.info }}</p>
                                     </div>
-                                    <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">Learn More</a>
+                                    {% if about_data.button != "" %}
+                                    <a href="{{ about_data.link }}" class="page-scroll btn btn-sm">{{ about_data.button }}</a>
+                                    {% endif %}
                                 </div>
                             </li>
                         {% endfor %}

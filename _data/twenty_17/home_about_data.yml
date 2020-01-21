@@ -3,27 +3,32 @@
   name: Nos casamos!
   info: We are getting married!
   link: #
+  button: ""
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda de la boda
   info: Agenda of the wedding
-  link: #
+  link: /agenda
+  button: Agenda
 
 - inverted:
   img: icon-venue.jpeg
   name: Información del lugar
   info: Information of the venue location
-  link: #
+  link: https://hoteloceanrivieraparadise.com/
+  button: Ocean Riviera Paradise
 
 - inverted: timeline-inverted
   img: icon-faq.jpeg
   name: Preguntas y respuestas
   info: FAQs
   link: #
+  button: En construcción! - Not ready
 
 - inverted:
   img: booklet-icon.png
   name: Reservar hotel
   info: Hotel reservation
   link: https://reservas.bodayplaya.com/reservas/citlalyeismael
+  button: Reservas - Reservations

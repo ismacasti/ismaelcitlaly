@@ -1,5 +1,8 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: "17:00"
+  info: "<b>Comienzo de la ceremonia</b><br/><br/>Ceremony starts"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: "18:00"
+  info: "<b>Brindis y fotos</b><br/><br/>Toast and photos</b>"
+
+- time: "19:00 - 23:00"
+  info: "<b>Cena y fiesta</b><br/><br/>Dinner and party!"

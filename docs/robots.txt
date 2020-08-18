@@ -1,4 +1,4 @@
-Sitemap: https://ismaelcitlaly.fi/sitemap.xml
+Sitemap: https://citlalyismael.fi/sitemap.xml
 
 User-agent: *
 Disallow: /css
